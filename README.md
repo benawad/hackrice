@@ -1,0 +1,3 @@
+# hackrice
+
+Hack rice project
